@@ -1,4 +1,4 @@
-# Python tutorials for OpenMM
+# Python tutorials for OpenMM (forked from [choderalab/openmm-tutorials](https://github.com/choderalab/openmm-tutorials))
 
 This guide is a set of [Jupyter notebooks](http://jupyter.readthedocs.io/) intended to help researchers already familiar with molecular dynamics simulation learn how to use OpenMM in their research and software projects.
 
@@ -19,8 +19,8 @@ conda install --yes -c omnia -c conda-forge jupyter notebook openmm mdtraj nglvi
 
 ## Tutorial modules
 
-* 01 - [Creating and importing molecular systems in OpenMM](https://github.com/choderalab/openmm-tutorials/blob/master/01%20-%20Creating%20and%20importing%20molecular%20systems%20in%20OpenMM.ipynb)
-* 02 - [Integrators and sampling](https://github.com/choderalab/openmm-tutorials/blob/master/02%20-%20Integrators%20and%20sampling.ipynb)
+* 01 - [Creating and importing molecular systems in OpenMM](https://github.com/FHedin/openmm-tutorials/blob/master/01%20-%20Creating%20and%20importing%20molecular%20systems%20in%20OpenMM.ipynb)
+* 02 - [Integrators and sampling](https://github.com/FHedin/openmm-tutorials/blob/master/02%20-%20Integrators%20and%20sampling.ipynb)
 
 ## More resources
 
